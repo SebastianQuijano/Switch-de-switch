@@ -1,0 +1,17 @@
+4
+3	Pya	NoAsiste	Asiste
+4	Participacion	Bajo	Medio	Alto
+5	Aprovechamiento	Deficiente	Regular	Bueno	Excelente
+3	Extra	Final	Exento
+2p{
+	2.0*0
+	2.1	0p{
+		0.0*0
+		0.1*1
+	}
+	2.2	0p{
+		0.0*1 
+		0.1*2 
+	}
+	2.3*2
+}
